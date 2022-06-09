@@ -1,3 +1,10 @@
 https://fs.oneops.net
 https://tgrs.oneops.net
 https://cts.oneops.net
+http://api.detecas.com
+https://admin.detecas.com
+http://sub.detecas.com
+https://sc.detecas.com
+https://sc.saceted.com
+https://sc.casemed.com
+https://fpc.detecas.com
